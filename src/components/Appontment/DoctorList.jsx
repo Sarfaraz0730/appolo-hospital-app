@@ -101,7 +101,7 @@ const DoctorList = () => {
           <h6>
           Max Hospital , Pune - Consultation Fee: ₹ 2000
           </h6>
-
+           
           </div>
         
         
@@ -184,7 +184,7 @@ const DoctorList = () => {
          
          
           <div> <h>Head of Dept and Consultant</h>
-          <h6 className='tex'>Gynchologist</h6>
+          <h6 className='tex'>Gynecologist</h6>
           <p>Doctor is available on <b>25-Apr-2022 12:40PM</b></p>
 
           <h6>
